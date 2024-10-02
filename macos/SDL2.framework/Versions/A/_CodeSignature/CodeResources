@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		dMHa67dcW34OsaKhIs8XOSAgMMQ=
+		jYns7qqDeiejPA1Wp8eZns+OF6o=
 		</data>
 		<key>Resources/License.txt</key>
 		<data>
@@ -255,11 +255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hqQx2W6tdgbMQiyN1qszXtM7Gpw=
+			enJz/y9Kq25SdPiDoBP7yR86jo4=
 			</data>
 			<key>hash2</key>
 			<data>
-			goxQLEkBzHVdp82tkViyxuCxR6r7a27JoHIgwhFDi9E=
+			gxFXZAIhlPaEbPerAgtEJYDawHaM5Y3B1Ns/t6Hr49A=
 			</data>
 		</dict>
 		<key>Headers/SDL_joystick.h</key>
@@ -563,11 +563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8Thd5njVliWaIMBMcdh+Qpwv69k=
+			wlRT2sTA0dP97Vvcah+M13dM6Ng=
 			</data>
 			<key>hash2</key>
 			<data>
-			fdMzyHYQsQgL4o630n8595Bm8oa1EVCM9eiNolblF74=
+			Dn4kx2zaANESjNuADThOyPh3QukKZMRvUrIcDo8vIR4=
 			</data>
 		</dict>
 		<key>Headers/SDL_rwops.h</key>
@@ -706,11 +706,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8HME/2bwOUr4T8Qon1ZymkV8lBo=
+			96r830xspFRdVMDGjqAebuQNNYY=
 			</data>
 			<key>hash2</key>
 			<data>
-			s+p3HhwoCBdBhKt+BMs09R51R8gxqr8WVE5fuU2GUC8=
+			jwle2CP4+QYFBkczKbRhI5vg5T9YuuyF7DRFRjq+KNM=
 			</data>
 		</dict>
 		<key>Headers/SDL_video.h</key>
@@ -783,11 +783,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dMHa67dcW34OsaKhIs8XOSAgMMQ=
+			jYns7qqDeiejPA1Wp8eZns+OF6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			ERxWsiO2JhrjC9hasONYNLAWmxnV6PUPaKEAOopmUWU=
+			irUNdiI+O4xLR2lB2V3gBYSAJNcoj0wlZ9OEuB7S+JM=
 			</data>
 		</dict>
 		<key>Resources/License.txt</key>
